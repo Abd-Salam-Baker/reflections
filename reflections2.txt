@@ -1,0 +1,16 @@
+-What happens when you initialize a repository? Why do you need to do it?
+
+a .git file get initiated..because we want to store the history of the repository
+
+
+
+
+
+
+-How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+the staging area should contain the files involved in a commit, the working directory is the files of the repo not including git files,
+the repo contains all the files(working directory and git files)....the staging area is made to specify what files are involved in a commit
+
+
+
