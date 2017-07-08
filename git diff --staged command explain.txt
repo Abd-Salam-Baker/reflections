@@ -1,4 +1,5 @@
-git diff --staged command compares the staging area to the most recent commit..this will help you write the commit message
+git diff --staged command compares the most recent commit to the staging area ..
+this will help you write the commit message before you commit it
 
 
 bee
