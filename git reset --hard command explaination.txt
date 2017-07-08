@@ -1,0 +1,1 @@
+this command discards any changes in the working directory or the staging area that haven't been commited yet
