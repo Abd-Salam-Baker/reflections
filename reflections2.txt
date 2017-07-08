@@ -12,5 +12,5 @@ a .git file get initiated..because we want to store the history of the repositor
 the staging area should contain the files involved in a commit, the working directory is the files of the repo not including git files,
 the repo contains all the files(working directory and git files)....the staging area is made to specify what files are involved in a commit
 
-
-
+the staging area also reperesents the latest commit
+(if you run the command git diff with no arguments..you will be comparing the latest commit with the current version of the code)
