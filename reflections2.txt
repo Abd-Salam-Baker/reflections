@@ -14,3 +14,11 @@ the repo contains all the files(working directory and git files)....the staging 
 
 the staging area also reperesents the latest commit
 (if you run the command git diff with no arguments..you will be comparing the latest commit with the current version of the code)
+
+
+
+
+-How can you use the staging area to make sure you have one commit per logical change?
+
+by running the commad git diff --staged..i'm comparing the last commit with the staging area..this will
+help me see what i did in the the commit that i'm going to do..and help me write the commit message
