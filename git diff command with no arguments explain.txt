@@ -2,6 +2,8 @@ if you run the command git diff with no arguments..you will be comparing the lat
 the current working version of the code..
 
 
-so you're showing the latest modifications that haven't been commited or added to the staging area yet.
+so you're showing the latest modifications that haven't been added to the staging area yet.
 
-in other words..you are comparing the working directory to the staging area
+in other words..
+you are comparing the  staging area(which contains the latest commit files and the files you added using the git add commad)
+to the working directory(which contains the latest modified version of the code)
