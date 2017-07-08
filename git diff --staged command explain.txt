@@ -1,1 +1,4 @@
 git diff --staged command compares the staging area to the most recent commit..this will help you write the commit message
+
+
+bee

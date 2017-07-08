@@ -4,6 +4,6 @@ the current working version of the code..
 
 so you're showing the latest modifications that haven't been added to the staging area yet.
 
-in other words..
+in other precise words..
 you are comparing the  staging area(which contains the latest commit files and the files you added using the git add commad)
 to the working directory(which contains the latest modified version of the code)
