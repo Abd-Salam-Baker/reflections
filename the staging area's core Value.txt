@@ -1,0 +1,1 @@
+what if you done a lot of things..modified a lot of shit...and you don't wanna commit them at the sametime in the same commit?  here the staging area comes...where you can add the things that you want to commit

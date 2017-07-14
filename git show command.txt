@@ -1,0 +1,6 @@
+by executing : git show <COMMIT ID>
+
+you will see the changes introduced in this commit compared to its parent..
+
+
+the parent commit is the commit before the son commit in the same branch

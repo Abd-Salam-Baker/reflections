@@ -1,0 +1,9 @@
+let's say i want to experiment a feature..it may work or not(i wanna test it..or Demo it)...
+but i still want to proceed with my code regardless of this feature..
+i create a branch for this feature and start experminiting in this branch..while the main branch is not affected..
+and if the feature finally worked, we merge the branches\
+
+
+you can think of it like context switching..everytime you wanna do something new(new feature..try new bug fix),
+you create a branch for it..
+that's how you make your history easy to read and you can go back to your master branch at anytime(if the experiment fails)

@@ -1,0 +1,3 @@
+you can show the commits of multiple branches, with this command
+
+git log --graph --oneline master easy-mode coins

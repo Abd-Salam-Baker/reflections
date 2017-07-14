@@ -1,0 +1,2 @@
+the commad without arguments shows you the branches that you have in your repository..
+if you add an argument like "git branch new_branch", it will create a new branch
