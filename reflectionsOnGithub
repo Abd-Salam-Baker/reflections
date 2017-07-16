@@ -40,4 +40,24 @@ we fork a repo in github to have our own version of it in our github account.
 we clone a repo in github to have it in our local machine.
 a branch is a bunch of commits.
 
+(the fork is the cloned repo that's in your github account)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Accessing the remote repo even if you're offline..for example you can merge the origin/master branch with the master branch locally        
+
 
